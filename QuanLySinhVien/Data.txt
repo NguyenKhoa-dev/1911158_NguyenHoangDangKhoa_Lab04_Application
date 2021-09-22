@@ -1,0 +1,4 @@
+﻿1911158^Nguyễn Hoàng Đăng Khoa^Nam^14/08/2001^CTK43^0945673821^1911158@dlu.edu.vn^30 Trần Lê, P4 Đà Lạt^D:\Images
+1911145^Nguyễn Anh Minh^Nam^23/01/2001^CTK43^0945674561^1911145@dlu.edu.vn^20 Lê Hồng Phong, P4 Đà Lạt^D:\Images
+1911133^Trần Thị Mai^Nữ^05/03/2001^CTK43^0945673821^1911133@dlu.edu.vn^2/9 Đồng Tâm, P4 Đà Lạt^D:\Images
+1911247^Trần Hoàng Dũng^Nam^11/12/2001^CTK43^0946563821^1911247@dlu.edu.vn^4/9 Đồng Tâm, P4 Đà Lạt^D:\Images
